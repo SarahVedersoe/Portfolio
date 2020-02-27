@@ -1,0 +1,5 @@
+# This OSX files will be ignored
+.tmp
+.exe
+.o
+.so

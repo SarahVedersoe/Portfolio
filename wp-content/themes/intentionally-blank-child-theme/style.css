@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Intentionally Blank Child 
+ Theme URI:    http://sarahvedersoe.com/portfolio/
+ Description:  Intentionally Blank Child Theme based on Parent Theme 
+ Author:       Sarah Vedersøe
+ Author URI:   http://sarahvedersoe.com/portfolio/
+ Template:     intentionally-blank
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  intentionally-blank
+*/
+
+.elementor-100 .elementor-element.elementor-element-663b642b:not(.elementor-motion-effects-element-type-background), .elementor-100 .elementor-element.elementor-element-663b642b > .elementor-motion-effects-container > .elementor-motion-effects-layer, .elementor-100 .elementor-element.elementor-element-663b642b:not(.elementor-motion-effects-element-type-background), .elementor-100 .elementor-element.elementor-element-663b642b > .elementor-motion-effects-container > .elementor-motion-effects-layer, .elementor-32 .elementor-element.elementor-element-45704674:not(.elementor-motion-effects-element-type-background), .elementor-32 .elementor-element.elementor-element-45704674 > .elementor-motion-effects-container > .elementor-motion-effects-layer, .elementor-88 .elementor-element.elementor-element-54845779:not(.elementor-motion-effects-element-type-background), .elementor-88 .elementor-element.elementor-element-54845779 > .elementor-motion-effects-container > .elementor-motion-effects-layer, .elementor-397 .elementor-element.elementor-element-450a4c0d:not(.elementor-motion-effects-element-type-background), .elementor-397 .elementor-element.elementor-element-450a4c0d > .elementor-motion-effects-container > .elementor-motion-effects-layer, .elementor-265 .elementor-element.elementor-element-6428e68c:not(.elementor-motion-effects-element-type-background), .elementor-265 .elementor-element.elementor-element-6428e68c > .elementor-motion-effects-container > .elementor-motion-effects-layer,.elementor-262 .elementor-element.elementor-element-2081cc09:not(.elementor-motion-effects-element-type-background), .elementor-262 .elementor-element.elementor-element-2081cc09 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+
+    background-color: #000 !important;
+    width: 1600px;
+    
+}
+
+    
