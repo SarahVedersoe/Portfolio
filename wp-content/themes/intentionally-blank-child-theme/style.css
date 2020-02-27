@@ -5,7 +5,7 @@
  Author:       Sarah Vedersøe
  Author URI:   http://sarahvedersoe.com/portfolio/
  Template:     intentionally-blank
- Version:      1.0.5
+ Version:      1.0.6
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
@@ -16,7 +16,12 @@
 
     background-color: #000 !important;
     width: 1600px;
+    position: fixed;
+    z-index: 100;
+    margin-bottom: 130px;
 }
+
+
 
 .site-title-bg {
     display: none;
