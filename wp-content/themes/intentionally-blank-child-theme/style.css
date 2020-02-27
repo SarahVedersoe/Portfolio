@@ -16,10 +16,19 @@
 
     background-color: #000 !important;
     width: 1600px;
-    
 }
 
 .site-title-bg {
     display: none;
 }
+.attachment-full.size-full {
+-webkit-box-shadow: -9px 10px 18px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: -9px 10px 18px -4px rgba(0,0,0,0.75);
+box-shadow: -9px 10px 18px -4px rgba(0,0,0,0.75);
+
+    
+}
+
+
+
     
